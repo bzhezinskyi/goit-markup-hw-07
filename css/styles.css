@@ -71,13 +71,13 @@ li {
 
 /* Верхняя линия */
 
-.header {
+/* .header {
 	padding-top: 24px;
 	padding-bottom: 24px;
 
 	background-color: var(--header-bacground-color);
 	border-bottom: 1px solid var(--border-header-color);
-}
+} */
 
 .header > .container {
 	padding-top: 0;
@@ -89,22 +89,22 @@ li {
 	align-items: center;
 }
 
-.logo {
+/* .logo {
 	font-family: "Raleway";
 	font-weight: 700;
 	font-size: 26px;
 	line-height: 1.19;
 	color: var(--activation-color);
 	text-decoration: none;
-}
+} */
 
-.header .logo {
+/* .header .logo {
 	margin-right: 93px;
-}
+} */
 
-.header .logo-studio {
+/* .header .logo-studio {
 	color: var(--logo-color);
-}
+} */
 
 .site-nav {
 	display: flex;
