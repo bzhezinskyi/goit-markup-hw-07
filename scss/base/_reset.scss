@@ -24,3 +24,10 @@ img {
 	padding: 0;
 	margin: 0;
 }
+
+body {
+	font-family: $maim-font;
+	color: $main-txt-cl;
+	letter-spacing: 0.03em;
+	color: $secondary-txt-cl;
+}

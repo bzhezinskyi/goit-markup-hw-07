@@ -7,8 +7,12 @@
 	text-decoration: none;
 }
 
-.logo__dark {
+.logo--dark {
 	color: $logo-dark-cl;
+}
+
+.logo--white {
+	color: $white-txt-cl;
 }
 
 .header .logo {
