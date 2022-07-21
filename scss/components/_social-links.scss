@@ -25,6 +25,16 @@
 	}
 }
 
+.footer .social-links__link {
+	color: $white-txt-cl;
+	background-color: $social-links-bg-cl;
+
+	&:hover,
+	&:focus {
+		background-color: $accent-cl;
+	}
+}
+
 .social-links__icon {
 	display: inline-flex;
 	width: 20px;
